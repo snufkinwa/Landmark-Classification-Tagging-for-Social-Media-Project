@@ -38,7 +38,7 @@ By the end of this project, you will have a system capable of:
 
 You can complete this project either locally or in the Udacity Workspace (recommended for convenience and GPU access).
 
-#### Setting up in the Udacity Project Workspace
+#### Setting up Project in Workspace
 
 1. Launch the workspace locally or in the cloud. 
 2. When prompted, select **GPU** for faster training.
